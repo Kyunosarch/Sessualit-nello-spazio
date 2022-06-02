@@ -1,9 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
 <meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
 <header>
 
-  <h1 id=logo>Come funziona il sesso nello spazio?</h1>
+  <h1 id=logo><title>Come funziona il sesso nello spazio?</title></h1>
   
 </header>
+</head>
 <!-- Sezione paragrafi -->
 <p>
 Il tema dei rapporti sessuali umani nello spazio è una materia di studio che ha preso sempre più importanza sin dall'inizio dei primi viaggi spaziali. Già dopo lo sbarco sulla Luna, infatti, quando si iniziò a guardare verso un futuro viaggio verso Marte, si aprì il dibattito sul fatto che costringere gli astronauti, ossia persone solitamente nel pieno dell'età e in piena forma fisica, a un'astinenza di mesi in un ambiente ristretto avrebbe potuto condurre a una sofferenza sia fisica sia psicologica degli stessi. Altre dichiarazioni rilasciate dalla <a href=https://it.m.wikipedia.org/wiki/NASA>NASA</a> a partire dal 2009 sulla volontà di installare future basi lunari da cui cominciare una colonizzazione umana del sistema solare hanno poi reso la questione dei rapporti sessuali umani, e quindi anche delle gravidanze a essi seguenti, un tema centrale dell'esplorazione spaziale.
@@ -12,4 +16,6 @@ Le più grandi difficoltà a effettuare un amplesso nello spazio sono dovute a q
 </p>
 <!-- Fine sezione paragrafi -->
 </meta>
+</html>
+
 

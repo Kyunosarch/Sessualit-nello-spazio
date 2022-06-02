@@ -1,9 +1,15 @@
+<!DOCTYPE html>
+<html lang='it'>
+  <head>
+    <meta charset='utf-8'>
+    <title>Come funziona il sesso nello spazio?</title>
+    <link rel='canonical' href='https://it.m.wikipedia.org/wiki/NASA'>
+    
+    <meta name='author' content='Kyunos'>
+  </head>
+  <body>
+  </body>
 
-<header>
-
-  <h1 id=logo>Come funziona il sesso nello spazio?</h1>
-  
-</header>
 
 <!-- Sezione paragrafi -->
 <p>
@@ -16,6 +22,7 @@ Altre dichiarazioni rilasciate dalla <a href='https://it.m.wikipedia.org/wiki/NA
 Le più grandi difficoltà a effettuare un amplesso nello spazio sono dovute a quanto enunciato nel terzo principio di Newton sulla dinamica dei corpi. Conseguenza del terzo principio è, ad esempio, il fatto che, se la coppia rimane attaccata, i loro movimenti si contrapporranno e di conseguenza le loro azioni non cambieranno la loro velocità, a meno che essi non siano influenzati da un altro oggetto a loro non attaccato. A questo si sommano poi tutte le difficoltà dovute alla particolare situazione di gravità e microgravità e al comportamento del corpo umano in tali ambienti.
 </p>
 <!-- Fine sezione paragrafi -->
+  </html>
 
 
 

@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+<header>
+  <h1 id=logo>Come funziona il sesso nello spazio?</h1>
+  
+  
+  Il tema dei rapporti sessuali umani nello spazio è una materia di studio che ha preso sempre più importanza sin dall'inizio dei primi viaggi spaziali. Già dopo lo sbarco sulla Luna, infatti, quando si iniziò a guardare verso un futuro viaggio verso Marte, si aprì il dibattito sul fatto che costringere gli astronauti, ossia persone solitamente nel pieno dell'età e in piena forma fisica, a un'astinenza di mesi in un ambiente ristretto avrebbe potuto condurre a una sofferenza sia fisica sia psicologica degli stessi. Altre dichiarazioni rilasciate dalla [NASA](https://it.m.wikipedia.org/wiki/NASA) a partire dal 2009 sulla volontà di installare future basi lunari da cui cominciare una colonizzazione umana del sistema solare hanno poi reso la questione dei rapporti sessuali umani, e quindi anche delle gravidanze a essi seguenti, un tema centrale dell'esplorazione spaziale.
 
-You can use the [editor on GitHub](https://github.com/Kyunosarch/Sessualit-nello-spazio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kyunosarch/Sessualit-nello-spazio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Le più grandi difficoltà a effettuare un amplesso nello spazio sono dovute a quanto enunciato nel terzo principio di Newton sulla dinamica dei corpi. Conseguenza del terzo principio è, ad esempio, il fatto che, se la coppia rimane attaccata, i loro movimenti si contrapporranno e di conseguenza le loro azioni non cambieranno la loro velocità, a meno che essi non siano influenzati da un altro oggetto a loro non attaccato. A questo si sommano poi tutte le difficoltà dovute alla particolare situazione di gravità e microgravità e al comportamento del corpo umano in tali ambienti.
+</header>

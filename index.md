@@ -5,7 +5,6 @@
     <title>Come funziona il sesso nello spazio?</title>
     <link rel='canonical' href='https://it.m.wikipedia.org/wiki/NASA'>
     
-    <meta name='author' content='Kyunos'>
   </head>
   <body>
   </body>

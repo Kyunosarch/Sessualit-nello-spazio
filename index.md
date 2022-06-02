@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
 <header>
 
-  <h1 id=logo><title>Come funziona il sesso nello spazio?</title></h1>
+  <h1 id=logo>Come funziona il sesso nello spazio?</h1>
   
 </header>
 </head>

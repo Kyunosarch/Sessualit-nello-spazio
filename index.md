@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang='it'>
-  <head>
+<html lang="en">
+<head>
     <meta charset='utf-8'>
     <title>Come funziona il sesso nello spazio?</title>
     <link rel='canonical' href='https://it.m.wikipedia.org/wiki/NASA'>
